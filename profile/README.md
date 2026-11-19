@@ -1,6 +1,6 @@
 # Free Names
 
-We're a collection of free subdomains you can register!
+We're a collection of free weird, whacky, and sometimes cool subdomains you can register!
 
 List of domains:
 
